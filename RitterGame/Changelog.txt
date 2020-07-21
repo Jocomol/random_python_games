@@ -1,0 +1,16 @@
+Version 0.1 17.11.2015
++ Ritter
++ Engine
+
+Version 0.2 24.11.2016
++ Drachen
++ Random Attacken
++ Feuerspucken für Drachen
++ Random Kämpfe
+-- Bugfixing
+
+Version 0.3 xx.11.2016
+/Bugfixing
+/Magier
+/Drachen Fliegen
+/wernerbug fixed

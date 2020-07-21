@@ -1,0 +1,45 @@
+Gameengine:
+Engine
+
+V0:
++New Sprites:
+Platform
+Spikes
++Waderon
+
+V.Affi:
+Bugfixes
++Collision fixed
++Added Blocks:
+Stopblock
+CBlock
+Endblock
+
+V.Castro:
+Bugfixes
++New Textures for Blocks:
+Stopblock
+CBlock
+Endblock
+
+V.Hannibal:
+-Waderon
++New Viewmodel
++Sprite Walking Animations
++New Players
++New Sprites
+ Platform
+
+V.Ingentum Ultimatum:
+Bugfixes
++New Spikes
+-Spikes
+-Stopblock
++Fullscreen Mode
++Secret Endings
++Player Respawn
++Endscreen
+
+
+
+
